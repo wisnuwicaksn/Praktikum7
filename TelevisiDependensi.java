@@ -1,6 +1,5 @@
 public class TelevisiDependensi {
     public String merk;
-    public int volt;
 
     public void on(Terminal i){
         i.on();
