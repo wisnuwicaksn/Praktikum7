@@ -32,3 +32,7 @@ Main
 
 ![image](https://user-images.githubusercontent.com/92707545/206927400-d6135b1c-ada3-4d16-922d-ae32e5eca75b.png)
 ![image](https://user-images.githubusercontent.com/92707545/206927421-b6395c86-29cc-43f2-abad-f8fa523b828f.png)
+
+Hasil eksekusi
+
+![image](https://user-images.githubusercontent.com/92707545/206927589-b07816b8-3084-4503-b71c-f849490e5cf4.png)
